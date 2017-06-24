@@ -1,0 +1,95 @@
+<?Php
+date_default_timezone_set('UTC'); 
+
+//$g_arTranslate =  array(1=>'jan','feb','mar','apr', 'may','jun','jul','aug','sep','oct','nov','dec');
+/*
+class CDateInLog
+{
+	private $date;
+	private $day;
+	private $year;
+	private $month;
+	private $timestamp;
+	private $_szLastError;
+	private $_curLine;
+	
+	function __construct($szCurLine)
+	{
+		$this->szDate = 0;
+		$this->day = 0;
+		$this->year = 0;
+		$this->month = 0;
+		$this->timestamp = 0;
+		$this->_szLastError = "";
+		$this->_curLine = $szCurLine;
+	}
+	
+	function CutDateFromLine()
+	{
+		$bOk = false;
+		
+		if ($this->_curLine == NULL || strlen($this->_curLine) == 0)
+			$this->_szLastError = "String : '".$this->_curLine."' ";
+		else if  (strlen($this->_curLine) < 15)
+			$this->_szLastError = "String : '".$this->_curLine."' doesn't correspond (< 15 caracter)";
+		else
+		{
+			$bOk = true;
+			$this->szDate = substr($this->_curLine, 0, 15);
+		}
+		
+		$bOk = $bOk && $this->ReverseLogDate();
+		
+		return ($bOk);
+	}
+	
+	function GetTimeStamp()
+	{
+		return ($this->timestamp);
+	}
+	
+	function GetLastError()
+	{
+		return ($this->_szLastError);
+	}
+	
+	function ReverseLogDate()
+	{
+		$bOk = TRUE;
+
+		global $g_arTranslate;
+		$szMonth = substr($this->szDate, 0,3);
+
+		$this->day = substr($this->szDate,4,2);
+		$this->hour = substr($this->szDate, 7,2);
+		$this->min = substr($this->szDate,10,2);
+		$this->sec = substr($this->szDate,13,2);
+		$armonth = array_keys($g_arTranslate, strtolower($szMonth), false);
+		$this->month = $armonth[0];
+		$this->timestamp = mktime($this->hour, $this->min, $this->sec, $this->month, $this->day);
+		
+		return ($bOk);
+	}
+		
+	function Load()
+	{
+		$bOk = false;
+		
+		$bOk = $this->CutDateFromLine();
+		$bOk = $this->ReverseLogDate();
+	
+		return ($bOk);
+	}
+	
+	function __destruct()
+	{
+		
+	}
+}
+*/
+
+
+
+
+
+?>

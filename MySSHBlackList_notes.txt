@@ -1,0 +1,15 @@
+25/02/2011 : debut de reflexion
+
+
+Objectif : detecter les tentatives d'attaque ssh
+Moyen : PHP (Perl serait plus adapté mais je prefere le php (point final)
+Contrainte : permettre de suivre les log facilement.
+
+Ma vision de la chose :
+Nous avons un fichier de Log le fichier auth.log (SousNux) [ CLogToSurvey ].
+Sur chaque ligne de se fichier nous avons une date : [ CDateInLog ] & des infos associèes à cette date [ CInfos ].
+Pour avoir une informations il faut absolument une date,
+donc l'information hérite de la date.
+
+En entrée nous avons aussi une liste d'ip BlackList : LBlackListed
+

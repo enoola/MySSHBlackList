@@ -1,0 +1,124 @@
+Mar  6 06:34:21 aust CRON[12686]: pam_unix(cron:session): session closed for user root
+Mar  6 06:35:01 aust CRON[12883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:35:01 aust CRON[12883]: pam_unix(cron:session): session closed for user root
+Mar  6 06:39:01 aust CRON[12892]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:39:02 aust CRON[12892]: pam_unix(cron:session): session closed for user root
+Mar  6 06:40:01 aust CRON[12901]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:40:01 aust CRON[12901]: pam_unix(cron:session): session closed for user root
+Mar  6 06:45:01 aust CRON[12910]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:45:01 aust CRON[12910]: pam_unix(cron:session): session closed for user root
+Mar  6 06:47:01 aust CRON[12920]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:47:05 aust CRON[12920]: pam_unix(cron:session): session closed for user root
+Mar  6 06:50:01 aust CRON[12930]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:50:01 aust CRON[12930]: pam_unix(cron:session): session closed for user root
+Mar  6 06:52:51 aust sshd[12957]: Accepted password for enola from 192.168.0.2 port 58121 ssh2
+Mar  6 06:52:51 aust sshd[12957]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 06:53:21 aust sudo:    enola : TTY=pts/0 ; PWD=/home/enola ; USER=root ; COMMAND=/bin/umount /media/downloads/
+Mar  6 06:53:28 aust smbd[13091]: pam_unix(samba:session): session opened for user enola by (uid=0)
+Mar  6 06:53:32 aust sudo:    enola : TTY=pts/0 ; PWD=/home/enola ; USER=root ; COMMAND=/bin/umount /media/downloads/
+Mar  6 06:55:01 aust CRON[13161]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:55:01 aust CRON[13161]: pam_unix(cron:session): session closed for user root
+Mar  6 07:00:01 aust CRON[13222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:00:01 aust CRON[13222]: pam_unix(cron:session): session closed for user root
+Mar  6 07:05:01 aust CRON[13269]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:05:01 aust CRON[13269]: pam_unix(cron:session): session closed for user root
+Mar  6 07:05:03 aust smbd[13279]: pam_unix(samba:session): session opened for user enola by (uid=0)
+Mar  6 07:09:01 aust CRON[13314]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:09:01 aust CRON[13314]: pam_unix(cron:session): session closed for user root
+Mar  6 07:10:01 aust CRON[13332]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:10:01 aust CRON[13332]: pam_unix(cron:session): session closed for user root
+Mar  6 07:15:01 aust CRON[13379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:15:02 aust CRON[13379]: pam_unix(cron:session): session closed for user root
+Mar  6 07:17:01 aust CRON[13404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:17:01 aust CRON[13404]: pam_unix(cron:session): session closed for user root
+Mar  6 07:20:01 aust CRON[13432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:20:01 aust CRON[13432]: pam_unix(cron:session): session closed for user root
+Mar  6 07:21:29 aust sshd[12957]: pam_unix(sshd:session): session closed for user enola
+Mar  6 07:21:29 aust sshd[12957]: syslogin_perform_logout: logout() returned an error
+Mar  6 07:23:54 aust smbd[13091]: pam_unix(samba:session): session closed for user enola
+Mar  6 07:25:01 aust CRON[13485]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:25:01 aust CRON[13485]: pam_unix(cron:session): session closed for user root
+Mar  6 07:30:01 aust CRON[13532]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:30:01 aust CRON[13532]: pam_unix(cron:session): session closed for user root
+Mar  6 07:35:01 aust CRON[13581]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:35:01 aust CRON[13581]: pam_unix(cron:session): session closed for user root
+Mar  6 07:39:01 aust CRON[13620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:39:01 aust CRON[13620]: pam_unix(cron:session): session closed for user root
+Mar  6 07:40:01 aust CRON[13636]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:40:01 aust CRON[13636]: pam_unix(cron:session): session closed for user root
+Mar  6 07:45:01 aust CRON[13683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:45:01 aust CRON[13683]: pam_unix(cron:session): session closed for user root
+Mar  6 07:50:01 aust CRON[13734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:50:01 aust CRON[13734]: pam_unix(cron:session): session closed for user root
+Mar  6 07:55:01 aust CRON[13781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:55:01 aust CRON[13781]: pam_unix(cron:session): session closed for user root
+Mar  6 08:00:01 aust CRON[13833]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:00:01 aust CRON[13833]: pam_unix(cron:session): session closed for user root
+Mar  6 08:00:05 aust sshd[13843]: Accepted password for enola from 192.168.0.10 port 58276 ssh2
+Mar  6 08:00:05 aust sshd[13843]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:00:10 aust sshd[13843]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:00:18 aust sshd[13873]: Accepted password for enola from 192.168.0.10 port 58277 ssh2
+Mar  6 08:00:18 aust sshd[13873]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:00:28 aust sshd[13873]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:00:52 aust sshd[13910]: Accepted password for enola from 192.168.0.10 port 58279 ssh2
+Mar  6 08:00:52 aust sshd[13910]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:01:01 aust sshd[13938]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=enola.local  user=enola
+Mar  6 08:01:01 aust sshd[13938]: pam_winbind(sshd:auth): getting password (0x00000388)
+Mar  6 08:01:01 aust sshd[13938]: pam_winbind(sshd:auth): pam_get_item returned a password
+Mar  6 08:01:01 aust sshd[13938]: pam_winbind(sshd:auth): request wbcLogonUser failed: WBC_ERR_AUTH_ERROR, PAM error: PAM_USER_UNKNOWN (10), NTSTATUS: NT_STATUS_NO_SUCH_USER, Error message was: No such user
+Mar  6 08:01:03 aust sshd[13938]: Failed password for enola from 192.168.0.10 port 58280 ssh2
+Mar  6 08:05:01 aust CRON[13969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:05:01 aust CRON[13969]: pam_unix(cron:session): session closed for user root
+Mar  6 08:09:01 aust CRON[14008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:09:01 aust CRON[14008]: pam_unix(cron:session): session closed for user root
+Mar  6 08:09:24 aust sshd[13910]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:10:01 aust CRON[14025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:10:01 aust CRON[14025]: pam_unix(cron:session): session closed for user root
+Mar  6 08:11:15 aust sshd[14043]: Accepted password for enola from 192.168.0.10 port 58343 ssh2
+Mar  6 08:11:15 aust sshd[14043]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:11:20 aust sshd[14072]: Accepted password for enola from 192.168.0.10 port 58344 ssh2
+Mar  6 08:11:20 aust sshd[14072]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:12:30 aust sshd[14043]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:13:18 aust sshd[14118]: Accepted password for enola from 192.168.0.10 port 58347 ssh2
+Mar  6 08:13:18 aust sshd[14118]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:13:25 aust sshd[14146]: Accepted password for enola from 192.168.0.10 port 58348 ssh2
+Mar  6 08:13:25 aust sshd[14146]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:13:42 aust sshd[14118]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:13:42 aust sshd[14146]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:13:42 aust sshd[14072]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:15:01 aust CRON[14188]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:15:02 aust CRON[14188]: pam_unix(cron:session): session closed for user root
+Mar  6 08:17:01 aust CRON[14213]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:17:01 aust CRON[14213]: pam_unix(cron:session): session closed for user root
+Mar  6 08:18:07 aust sshd[14227]: Accepted password for enola from 192.168.0.10 port 58359 ssh2
+Mar  6 08:18:07 aust sshd[14227]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:18:07 aust sshd[14227]: pam_unix(sshd:session): session closed for user enola
+Mar  6 08:19:06 aust sshd[14242]: Accepted password for enola from 192.168.0.10 port 58361 ssh2
+Mar  6 08:19:06 aust sshd[14242]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:20:01 aust CRON[14278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:20:01 aust CRON[14278]: pam_unix(cron:session): session closed for user root
+Mar  6 08:20:40 aust sudo:    enola : TTY=pts/0 ; PWD=/home/enola ; USER=root ; COMMAND=/bin/su
+Mar  6 08:20:40 aust su[14316]: Successful su for root by root
+Mar  6 08:20:40 aust su[14316]: + /dev/pts/0 root:root
+Mar  6 08:20:40 aust su[14316]: pam_unix(su:session): session opened for user root by enola(uid=0)
+Mar  6 08:25:01 aust CRON[14364]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:25:01 aust CRON[14364]: pam_unix(cron:session): session closed for user root
+Mar  6 08:29:03 aust sshd[14414]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=noc-new.stelcom.ru  user=root
+Mar  6 08:29:03 aust sshd[14414]: pam_winbind(sshd:auth): getting password (0x00000388)
+Mar  6 08:29:03 aust sshd[14414]: pam_winbind(sshd:auth): pam_get_item returned a password
+Mar  6 08:29:03 aust sshd[14414]: pam_winbind(sshd:auth): request wbcLogonUser failed: WBC_ERR_AUTH_ERROR, PAM error: PAM_USER_UNKNOWN (10), NTSTATUS: NT_STATUS_NO_SUCH_USER, Error message was: No such user
+Mar  6 08:29:04 aust sshd[14414]: Failed password for root from 81.22.192.22 port 34924 ssh2
+Mar  6 08:30:01 aust CRON[14431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:30:01 aust CRON[14431]: pam_unix(cron:session): session closed for user root
+Mar  6 08:35:01 aust CRON[14491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:35:01 aust CRON[14491]: pam_unix(cron:session): session closed for user root
+Mar  6 08:39:01 aust CRON[14547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:39:01 aust CRON[14547]: pam_unix(cron:session): session closed for user root
+Mar  6 08:40:01 aust CRON[14565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:40:01 aust CRON[14565]: pam_unix(cron:session): session closed for user root
+Mar  6 08:42:49 aust sshd[14606]: Accepted password for enola from 192.168.0.10 port 58404 ssh2
+Mar  6 08:42:49 aust sshd[14606]: pam_unix(sshd:session): session opened for user enola by (uid=0)
+Mar  6 08:42:53 aust sudo:    enola : TTY=pts/3 ; PWD=/home/enola ; USER=root ; COMMAND=/bin/su
+Mar  6 08:42:53 aust su[14636]: Successful su for root by root
+Mar  6 08:42:53 aust su[14636]: + /dev/pts/3 root:root
+Mar  6 08:42:53 aust su[14636]: pam_unix(su:session): session opened for user root by enola(uid=0)

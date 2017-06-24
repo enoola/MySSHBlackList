@@ -1,0 +1,45 @@
+20110305 22:13:13 [ VERBOSE ] : MySSHBlacklist Started.
+20110305 22:13:13 [ VERBOSE ] : Memory Available for php :-1
+20110305 22:13:13 [ ERROR ] : Le fichier /etc/hosts.allow est en lecture seule.
+20110305 22:14:09 [ VERBOSE ] : MySSHBlacklist Started.
+20110305 22:14:09 [ VERBOSE ] : Memory Available for php :-1
+20110305 22:14:09 [ ERROR ] : Le fichier /etc/hosts.allow est en lecture seule.
+20110305 22:14:59 [ VERBOSE ] : MySSHBlacklist Started.
+20110305 22:14:59 [ VERBOSE ] : Memory Available for php :-1
+20110305 22:15:28 [ VERBOSE ] : MySSHBlacklist Ended.
+20110305 22:16:23 [ VERBOSE ] : MySSHBlacklist Started.
+20110305 22:16:23 [ VERBOSE ] : Memory Available for php :-1
+20110305 22:16:38 [ ERROR ] : Won't ban IP : 188.138.24.213 because presents in /etc/hosts.deny.
+20110305 22:16:38 [ ERROR ] : Won't ban IP : 85.25.144.24 because presents in /etc/hosts.deny.
+20110305 22:16:38 [ ERROR ] : Won't ban IP : 91.205.7.19 because presents in /etc/hosts.deny.
+20110305 22:16:38 [ ERROR ] : Won't ban IP : 195.84.48.29 because presents in /etc/hosts.deny.
+20110305 22:16:38 [ ERROR ] : Won't ban IP : 95.174.36.244 because presents in /etc/hosts.deny.
+20110305 22:16:38 [ ERROR ] : Won't ban IP : 122.224.175.133 because presents in /etc/hosts.deny.
+20110305 22:16:38 [ VERBOSE ] : MySSHBlacklist Ended.
+20110306 09:46:53 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 09:46:53 [ VERBOSE ] : Memory Available for php :128M
+20110306 09:46:53 [ VERBOSE ] : No IP to ban (even before filter) in IN/auth.log .
+20110306 09:48:08 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 09:48:08 [ VERBOSE ] : Memory Available for php :128M
+20110306 09:48:08 [ VERBOSE ] : No IP to ban (even before filter) in IN/auth.log .
+20110306 09:50:11 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 09:50:11 [ VERBOSE ] : Memory Available for php :128M
+20110306 09:50:11 [ VERBOSE ] : No IP to ban (even before filter) in IN/auth.log .
+20110306 09:50:59 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 09:50:59 [ VERBOSE ] : Memory Available for php :128M
+20110306 09:50:59 [ VERBOSE ] : No IP to ban (even before filter) in IN/auth.log .
+20110306 09:52:29 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 09:52:29 [ VERBOSE ] : Memory Available for php :128M
+20110306 09:52:29 [ VERBOSE ] : No IP to ban (even before filter) in IN/auth.log .
+20110306 10:01:20 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 10:01:20 [ VERBOSE ] : Memory Available for php :128M
+20110306 10:01:20 [ VERBOSE ] : No IP to ban in IN/auth.log .
+20110306 10:01:20 [ VERBOSE ] : MySSHBlacklist Ended.
+20110306 10:02:06 [ VERBOSE ] : MySSHBlacklist Started.
+20110306 10:02:06 [ VERBOSE ] : Memory Available for php :128M
+20110306 10:02:06 [ VERBOSE ] : No IP to ban in IN/auth.log .
+20110306 10:02:06 [ VERBOSE ] : MySSHBlacklist Ended.
+20170121 08:41:16 [ VERBOSE ] : MySSHBlacklist Started.
+20170121 08:41:16 [ VERBOSE ] : Memory Available for php :-1
+20170121 08:41:16 [ VERBOSE ] : No IP to ban in IN/auth.log .
+20170121 08:41:16 [ VERBOSE ] : MySSHBlacklist Ended.
