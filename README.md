@@ -16,11 +16,13 @@ sync the project.
 put the MySSHBlackList folder in the following folder : /ScriptsMaison/
 then as root launch : /ScriptsMaison/launchblacklist.sh
 output shall look like this :
+```bash
 20170625 11:31:53 [ VERBOSE ] : MySSHBlacklist Started.
 20170625 11:31:53 [ VERBOSE ] : Memory Available for php :-1
 20170625 11:31:53 [ VERBOSE ] : No IP to ban in /var/log/auth.log .
 20170625 11:31:53 [ VERBOSE ] : MySSHBlacklist Ended.
+```
 
-if ip has been ban they will be listed in place of No IP to ban in /var/log/auth.log
+If IP have been ban they will be listed in place of No IP to ban in /var/log/auth.log
 
 
