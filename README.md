@@ -23,6 +23,28 @@ output shall look like this :
 20170625 11:31:53 [ VERBOSE ] : MySSHBlacklist Ended.
 ```
 
+or something like :
+```bash
+20170625 12:25:54 [ VERBOSE ] : MySSHBlacklist Started.
+20170625 12:25:54 [ VERBOSE ] : Memory Available for php :-1
+20170625 12:25:54 [ ERROR ] : banned IP : 61.177.172.14.
+20170625 12:25:54 [ ERROR ] : banned IP : 144.76.38.71.
+20170625 12:25:54 [ ERROR ] : banned IP : 188.92.75.10.
+20170625 12:25:54 [ ERROR ] : banned IP : 51.254.98.26.
+20170625 12:25:54 [ ERROR ] : banned IP : 201.254.80.142.
+20170625 12:25:54 [ ERROR ] : banned IP : 51.15.57.125.
+20170625 12:25:54 [ ERROR ] : banned IP : 201.177.2.110.
+20170625 12:25:54 [ ERROR ] : banned IP : 103.89.88.102.
+20170625 12:25:54 [ ERROR ] : banned IP : 91.197.232.109.
+20170625 12:25:54 [ ERROR ] : banned IP : 181.21.60.207.
+20170625 12:25:54 [ ERROR ] : banned IP : 203.122.27.186.
+20170625 12:25:54 [ ERROR ] : banned IP : 91.197.232.107.
+20170625 12:25:54 [ ERROR ] : banned IP : 181.26.148.254.
+20170625 12:25:54 [ ERROR ] : banned IP : 217.92.20.95.
+20170625 12:25:54 [ ERROR ] : banned IP : 181.21.137.9.
+20170625 12:25:54 [ VERBOSE ] : MySSHBlacklist Ended.
+```
+
 If IP have been ban they will be listed in place of No IP to ban in /var/log/auth.log
 
 
